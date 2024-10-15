@@ -1,0 +1,18 @@
+{
+    "folders": [
+        {
+            "path": "."
+        },
+    ],
+    "settings": {
+        // The auto format style used for syspgm courses; similar to visual studio but with braces attached to functions
+        // instead of on the next line
+        "C_Cpp.clang_format_fallbackStyle": "{UseTab: Never, IndentWidth: 4, BreakBeforeBraces: Attach, AllowShortIfStatementsOnASingleLine: false, IndentCaseLabels: false, ColumnLimit: 0, AlignTrailingComments: true}",
+        "files.associations": {
+            "stdbool.h": "c",
+            "highscores.h": "c",
+            "type_traits": "c",
+            "typeinfo": "c"
+        },
+    }
+}

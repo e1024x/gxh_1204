@@ -1,0 +1,11 @@
+leak:i965_dri
+leak:libxcb
+leak:libGLX
+leak:libX11
+leak:libpulse
+leak:liballegro.so
+leak:vmwgfx_dri
+leak:libnvidia-glcore
+leak:iris_dri
+leak:radeonsi_dri
+leak:libdrm_amdgpu
