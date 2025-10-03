@@ -3,6 +3,7 @@
 A simple grid based game where you catch Pikachus while dodging obstacles. Built in C with Allegro 5.
 
 ## What's this
+![screenshot](game_screenshot.png)
 
 You move around a grid trying to catch Pikachus. Some are tougher than others. Avoid the bad stuff, grab the bonuses, rack up points. Pretty straightforward.
 
